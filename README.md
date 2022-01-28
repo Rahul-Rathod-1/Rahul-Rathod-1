@@ -1,5 +1,5 @@
 - 👋 Hi, I’m <b>@Rahul-Rathod-1</b>
-- 👀 I’m interested in <b>Devops (<i>Docker, Kubernetes, Ansible, Podman, Jenkins</i>), Cloud (<i>AWS, Azure and OCI</i>), Python, DataScience etc.</b>
+- 👀 I’m interested in <b>Devops (<i>Docker, Kubernetes, Ansible, Podman, Jenkins</i>), Cloud (<i>AWS, Azure and OCI</i>), Python, DataScience </b>
 - 🌱 I’m currently learning <i><b>integration of Multiple Technologies</b></i>
 - 💞️ I’m looking to collaborate on <i>Open Source Community's</i>
 - 📫 How to reach me - <i>just go through this website</i> <b>www.righteducation.in</b>
